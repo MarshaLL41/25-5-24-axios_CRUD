@@ -1,0 +1,33 @@
+{
+    "posts": [
+        {
+            "title": "Think and grow poor",
+            "author": "Someone",
+            "id": "2"
+        },
+        {
+            "title": "Hyperfocus",
+            "author": "Chriss",
+            "id": "3"
+        },
+        {
+            "title": "Mr.Bean",
+            "author": "The legend",
+            "id": "4"
+        },
+        {
+            "id": "63ed",
+            "title": "Hello",
+            "author": "ERww"
+        },
+        {
+            "id": "6ss3ed",
+            "title": "Hellos",
+            "author": "ERww"
+        }
+    ],
+    "comments": [],
+    "profile": {
+        "name": "typicode"
+    }
+}
